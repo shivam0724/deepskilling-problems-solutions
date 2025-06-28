@@ -2,4 +2,14 @@
 *.class
 
 #vscode settings
-.vscode/
+.vscode
+
+#intellij 
+.idea
+
+target
+
+#maven
+.mvn
+
+README.md
