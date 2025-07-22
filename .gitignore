@@ -13,3 +13,6 @@ target
 .mvn
 
 README.md
+
+#node
+node_modules
