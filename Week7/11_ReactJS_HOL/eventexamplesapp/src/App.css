@@ -1,0 +1,9 @@
+.App {
+  margin-left: 20px;
+}
+
+.buttons-container{
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+}

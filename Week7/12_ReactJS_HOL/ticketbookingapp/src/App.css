@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.box {
+  width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  margin: auto;
+  text-align: left;
+}

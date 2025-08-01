@@ -1,0 +1,38 @@
+.App {
+  margin-left: 20px;
+}
+
+.offices-container{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.office-box {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  width: 300px;
+}
+
+.office-img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.office-details{
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  width: 100%;
+}
+
+.office-details > h3, .office-details > h4 {
+  margin: 5px 0;
+}
